@@ -1,6 +1,10 @@
 This is a RAG chatbot.
 You can ask questions and then got answers:
-<img width="857" alt="Screenshot 2024-05-30 at 5 34 31 PM" src="https://github.com/zycs19/LangchainChatbot/assets/49542462/c1318721-0226-44fc-815c-bd3ce6dd9913">
+
+https://langchainchatbot.onrender.com
 
 
-<img width="842" alt="Screenshot 2024-05-30 at 5 34 45 PM" src="https://github.com/zycs19/LangchainChatbot/assets/49542462/38561320-236a-4caf-8e6e-9ea6c9697077">
+<img width="400" alt="Screenshot 2024-05-30 at 5 34 31 PM" src="https://github.com/zycs19/LangchainChatbot/assets/49542462/c1318721-0226-44fc-815c-bd3ce6dd9913">
+
+
+<img width="400" alt="Screenshot 2024-05-30 at 5 35 03 PM" src="https://github.com/zycs19/LangchainChatbot/assets/49542462/e7b3a28e-b037-4521-b728-15e0cf547080">
