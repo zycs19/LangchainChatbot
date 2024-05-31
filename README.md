@@ -1,3 +1,5 @@
+This is a RAG chatbot.
+You can ask questions and then got answers:
 <img width="857" alt="Screenshot 2024-05-30 at 5 34 31 PM" src="https://github.com/zycs19/LangchainChatbot/assets/49542462/c1318721-0226-44fc-815c-bd3ce6dd9913">
 
 
