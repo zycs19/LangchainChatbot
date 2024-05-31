@@ -1,8 +1,8 @@
-This is a Retrieval-augmented generation (RAG) chatbot with LangChain. It can answer questions about LangChain based on LangChain documents. 
+This is a Retrieval-augmented generation (RAG) chatbot with LangChain. It can answer questions about LangChain based on its official documents. 
 
-Documents are HTML files from the langchain website. Then it is chunked, embedded, and stored in the Pinecone vector store (about 50k vectors using cosine metric).
+Documents are HTML files from the website. Then it is chunked, embedded, and stored in the Pinecone vector store (about 50k vectors using cosine metric).
 
-It is hosted on https://langchainchatbot.onrender.com (it might be slow at the first time since I used the free-tier service).
+It is hosted on https://langchainchatbot.onrender.com (it might be slow for the first time since I used the free-tier service).
 
 <br></br>
 <h3>examples</h3>
